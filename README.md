@@ -14,19 +14,13 @@
 </p>
 
 <!-- About Me -->
-## About Me
-
-💡 Adept enough to explore my creative mind.
-
-📊 I specialize in transforming raw data into meaningful insights.
-
-🌟 I enjoy diving deep into complex data landscapes and solving real-world problems.
-
-🚀 I'm all about pushing the boundaries in AI while continuously learning along the way.
-
+💡 Adept enough to explore my creative mind.<br/>
+📊 I specialize in transforming raw data into meaningful insights.<br/>
+🌟 I enjoy diving deep into complex data landscapes and solving real-world problems.<br/>
+🚀 I'm all about pushing the boundaries in AI while continuously learning along the way.<br/>
 🌐 My goal is to make a tangible difference through innovative data-driven solutions.
 
 <!-- Skills -->
-## Languages and Frameworks
+### Languages and Frameworks
 
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=for-the-badge"/> <img alt="C++" src="https://img.shields.io/badge/-C++-00599c?logo=C%2B%2B&logoColor=white&style=for-the-badge"/> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge"/> <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=Streamlit&logoColor=white&style=for-the-badge"/> <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge"/> <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=Pytorch&logoColor=white&style=for-the-badge"/> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge"/> <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge"/>
