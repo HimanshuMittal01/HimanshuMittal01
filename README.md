@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="images/github cover image.png" alt="Himanshu Mittal">
+  <img src="github cover image.png" alt="Himanshu Mittal">
 </p>
 
 <!-- Introduction -->
